@@ -44,7 +44,7 @@ index=main sourcetype=access_combined
 | 194.215.205.19 | 487 |
 | 188.138.40.166 | 429 |
 
-![Top 10 Traffic Sources](docs/top10-traffic-sources.png)
+![Top 10 Traffic Sources](/top10-traffic-sources.png)
 
 ---
 
